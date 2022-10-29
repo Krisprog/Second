@@ -7,8 +7,10 @@ class Person
 public:
 	Person(){}
 	Person(string name, int age) {}
+	void Print()
+	{
 
-
+	}
 
 };
 void Sum(int a, int b)
