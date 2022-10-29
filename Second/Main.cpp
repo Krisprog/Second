@@ -4,6 +4,10 @@ void Mult()
 {
 	cout << "Mult\n";
 }
+void Min()
+{
+	cout << "Min\n";
+}
 void Sum(int a, int b)
 {
 	cout << a + b << endl;
