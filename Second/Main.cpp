@@ -2,6 +2,10 @@
 using namespace std;
 class Person
 {
+	string name;
+	int age;
+
+
 
 };
 void Sum(int a, int b)
