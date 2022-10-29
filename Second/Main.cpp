@@ -6,6 +6,7 @@ class Person
 	int age;
 public:
 	Person(){}
+	Person(string name, int age) {}
 
 
 
