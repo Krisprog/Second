@@ -9,7 +9,6 @@ public:
 	Person(string name, int age) {}
 	void Print()
 	{
-
 	}
 
 };
@@ -23,6 +22,7 @@ void Div(int a, int b)
 }
 int main()
 {
+	Person mas[5];
 
 
 }
