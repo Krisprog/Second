@@ -4,6 +4,8 @@ class Person
 {
 	string name;
 	int age;
+public:
+	Person(){}
 
 
 
